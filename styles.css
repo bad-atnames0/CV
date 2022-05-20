@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Urbanist', sans-serif;
+    font-size: 1.1rem;
+}
+
+
+h4 {
+    margin : 10px 0;
+}
+
+span {
+    font-size: 4rem;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    width: 500px;
+    align-items: left;
+    margin-right: 6.3%;
+}
+
+.pp {
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    margin-bottom: 2%;
+}
+
+.links {
+    display: flex;
+}
+
+.linkedin {
+    margin-right : 2%;
+}
+
+
+.contact {
+    height: 40px;
+    width: 40px;
+}
